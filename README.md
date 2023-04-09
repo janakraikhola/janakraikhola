@@ -65,12 +65,12 @@ data scraping etc. I have 3+ years of development experience in the backend.
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<a href="https://github.com/janakraikhola/github-readme-activity-graph"><img alt="Janak Raikhola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lushiv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/janakraikhola/github-readme-activity-graph"><img alt="Janak Raikhola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=janakraikhola&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lushiv&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lushiv&theme=github_dark&utcOffset=6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janakraikhola&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janakraikhola&theme=github_dark&utcOffset=6)
 ### 🛠 &nbsp;Blockchain Tech Stack
 ![bitcoin](https://img.shields.io/badge/-bitcoin-05122A?style=flat&logo=bitcoin)&nbsp;
 ![ethereum](https://img.shields.io/badge/-ethereum-05122A?style=flat&logo=ethereum)&nbsp;
@@ -87,6 +87,6 @@ data scraping etc. I have 3+ years of development experience in the backend.
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=lushiv">
+    <img src="https://komarev.com/ghpvc/?username=janakraikhola">
 </a>
-<a href="https://github.com/janakraikhola?tab=followers"><img src="https://img.shields.io/github/followers/lushiv?label=Followers&style=social" alt="GitHub
+<a href="https://github.com/janakraikhola?tab=followers"><img src="https://img.shields.io/github/followers/janakraikhola?label=Followers&style=social" alt="GitHub
