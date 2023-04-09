@@ -65,7 +65,7 @@ data scraping etc. I have 3+ years of development experience in the backend.
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-<a href="https://github.com/lushiv/github-readme-activity-graph"><img alt="Janak Raikhola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lushiv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/janakraikhola/github-readme-activity-graph"><img alt="Janak Raikhola Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lushiv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -89,4 +89,4 @@ data scraping etc. I have 3+ years of development experience in the backend.
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lushiv">
 </a>
-<a href="https://github.com/lushiv?tab=followers"><img src="https://img.shields.io/github/followers/lushiv?label=Followers&style=social" alt="GitHub
+<a href="https://github.com/janakraikhola?tab=followers"><img src="https://img.shields.io/github/followers/lushiv?label=Followers&style=social" alt="GitHub
